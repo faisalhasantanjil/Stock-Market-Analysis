@@ -1,6 +1,27 @@
-#Stock Market Analysis
-Performed in-depth data cleaning and exploration of historical stock market data using Python libraries (pandas, NumPy, matplotlib).
-Analyzed time series data, including visualizing closing prices, calculating daily returns, and investigating trends/seasonality.
-Employed moving averages to smooth data and identify top/bottom performing stocks.
-Assessed volatility through rolling standard deviation, analyzing daily price changes, and identifying high-volume trading days.
-Explored relationships between trading volume and volatility, and calculated correlations between key price points (Open, High, Low, Close) visualized with a heatmap.
+## Stock Market Analysis (**Dates, Optional**)
+
+This project analyzes historical stock market data to gain insights into price movements, trends, and relationships. 
+
+**Tools:** Python (pandas, NumPy, matplotlib, seaborn)
+
+**Tasks:**
+
+* **Data Cleaning & Exploration:**
+    * Calculated summary statistics for each data column.
+    * Visualized the distribution of closing prices over time.
+    * Identified and analyzed outliers in the dataset.
+* **Time Series Analysis:**
+    * Created a line chart to visualize closing prices.
+    * Calculated and plotted daily percentage changes (returns).
+    * Investigated trends and seasonality in stock prices.
+    * Applied moving averages (15 & 30 days) to smooth the data.
+    * Identified top and bottom performing stocks based on average closing price.
+* **Volatility Analysis:**
+    * Calculated and visualized rolling standard deviation of closing prices.
+    * Analyzed the distribution of daily price changes.
+    * Identified days with the largest price increases and decreases.
+    * Explored stocks with unusually high trading volume on certain days.
+* **Correlation Analysis:**
+    * Investigated the relationship between trading volume and volatility.
+    * Calculated the correlation matrix between opening, high, low, and closing prices.
+    * Created a heatmap to visualize the correlations using seaborn.
