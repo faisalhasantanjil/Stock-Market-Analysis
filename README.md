@@ -4,8 +4,6 @@ This project analyzes historical stock market data to gain insights into price m
 
 **Tools:** Python (pandas, NumPy, matplotlib, seaborn)
 
-**Tasks:**
-
 * **Data Cleaning & Exploration:**
     * Calculated summary statistics for each data column.
     * Visualized the distribution of closing prices over time.
