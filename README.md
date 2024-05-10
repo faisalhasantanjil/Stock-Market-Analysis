@@ -1,4 +1,4 @@
-## Stock Market Analysis (**Dates, Optional**)
+## Stock Market Analysis
 
 This project analyzes historical stock market data to gain insights into price movements, trends, and relationships. 
 
